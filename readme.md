@@ -1,3 +1,5 @@
+![banner](images/banner.jpg)
+
 # Joomla log_admin
 
 > You've forgot your Joomla admin credentials but you 've access to your FTP? The log_admin.php script will allow you to connect in your administrator interface without the need to fill in credentials.
