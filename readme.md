@@ -6,6 +6,8 @@
 
 [English version](#english-version) - [Version francophone](#version-francophone)
 
+If you're searching the same tool for WordPress, take a look to [https://github.com/JulioPotier/SecuPress-Backdoor-User](https://github.com/JulioPotier/SecuPress-Backdoor-User)
+
 ## Table of Contents
 
 - [English version](#english-version)
@@ -20,26 +22,26 @@
 
 When you don't remember again your super admin account or even password, `log_admin` will allow you to start your administrator interface by, just, putting this script in your `/administrator` folder.
 
-Don't be blocked anymore or don't play anymore with `phpMyAdmin` for creating a new admin / resetting the password / ..., just use this straigth-forward script.
+Don't be blocked anymore or don't play anymore with `phpMyAdmin` for creating a new admin / resetting the password / ..., just use this straightforward script.
 
 #### Note
 
 The "official" (= recommended by the Joomla project) way is either to edit the `configuration.php` file or to go `phpMyAdmin` and create a new user / reset an existing user. More info on [https://docs.joomla.org/How_do_you_recover_or_reset_your_admin_password%3F](https://docs.joomla.org/How_do_you_recover_or_reset_your_admin_password%3F)
 
-#### BE CAREFULL !!!
+#### BE CAREFUL!!!
 
-**If you've copy this script onto your website, don't forget it ! The script will be automatically deleted after the first use but ... use it ;-) If the script stay unused, don't forget to delete it.**
+**If you've copied this script onto your website, don't forget it ! The script will be automatically deleted after the first use but ... use it ;-) If the script stay unused, don't forget to delete it.**
 
 ### Install
 
-1.  Make a right-clic on the hyperlink to [log_admin.php](https://raw.githubusercontent.com/cavo789/joomla_free/master/src/log_admin/log_admin.php) and select `save the target of the link as` so you can save the file on your hard disk.
+1.  Make a right-click on the hyperlink to [log_admin.php](https://raw.githubusercontent.com/cavo789/joomla_free/master/src/log_admin/log_admin.php) and select `save the target of the link as` so you can save the file on your hard disk.
 2.  With a FTP client, copy the downloaded file onto your website, in the `/administrator` folder.
 
 ### Usage
 
 Start a browser and run the script by going to `https://yourwebsite/administrator/log_admin.php`.
 
-The script will start, retrieve the first non blocked super-admin, start a session with that user, open your Joomla backend interface and make a suicide: the script will be removed automatically.
+The script will start, retrieve the first non-blocked super-admin, start a session with that user, open your Joomla backend interface and make a suicide: the script will be removed automatically.
 
 Now, that you're in the backend, you can do what you want like:
 
@@ -48,7 +50,7 @@ Now, that you're in the backend, you can do what you want like:
 - Disable for instance the `Google Two Factors Authentication`,
 - ...
 
-### Other ressources
+### Other resources
 
 - [Tutorial: The most popular ways to recover your lost Joomla password, by Joomshaper](https://www.joomshaper.com/blog/the-most-popular-ways-to-recover-your-lost-joomla-password)
 
