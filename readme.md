@@ -34,7 +34,7 @@ The "official" (= recommended by the Joomla project) way is either to edit the `
 
 ### Install
 
-1.  Make a right-click on the hyperlink to [log_admin.php](https://raw.githubusercontent.com/cavo789/joomla_free/master/src/log_admin/log_admin.php) and select `save the target of the link as` so you can save the file on your hard disk.
+1.  Make a right-click on the hyperlink to [log_admin.php](https://github.com/cavo789/joomla_log_admin/blob/master/log_admin.php) and select `save the target of the link as` so you can save the file on your hard disk.
 2.  With a FTP client, copy the downloaded file onto your website, in the `/administrator` folder.
 
 ### Usage
@@ -90,7 +90,7 @@ Si vous avez copié ce script sur votre site, ne l'oubliez pas! Le script sera a
 
 ### Installation
 
-1.  Faites un clic-droit sur le lien vers le fichier [log_admin.php](https://raw.githubusercontent.com/cavo789/joomla_free/master/src/log_admin/log_admin.php) et sélectionnez `enregistrer la cible du lien sous` afin de sauver le fichier sur votre ordinateur.
+1.  Faites un clic-droit sur le lien vers le fichier [log_admin.php](https://github.com/cavo789/joomla_log_admin/blob/master/log_admin.php) et sélectionnez `enregistrer la cible du lien sous` afin de sauver le fichier sur votre ordinateur.
 2.  Avec un client FTP, copiez le fichier que vous venez de télécharger dans le dossier `/administrator` de votre site Joomla.
 
 ### Utilisation
