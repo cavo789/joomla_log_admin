@@ -34,8 +34,9 @@ The "official" (= recommended by the Joomla project) way is either to edit the `
 
 ### Install
 
-1.  Make a right-click on the hyperlink to [log_admin.php](https://github.com/cavo789/joomla_log_admin/blob/master/log_admin.php) and select `save the target of the link as` so you can save the file on your hard disk.
-2.  With a FTP client, copy the downloaded file onto your website, in the `/administrator` folder.
+1. Follow the link [log_admin.php](https://github.com/cavo789/joomla_log_admin/blob/master/log_admin.php), the source code of the script will be displayed in a tab of your browser.
+2. Make a right click and select `Save As` to save the file on your computer. *If your site is local, save directly in the `/administrator` folder of your Joomla site.*
+3. If your site is remote, launch your FTP client, connect to your site and upload the file you just saved in the `/administrator` folder of your remote site.
 
 ### Usage
 
@@ -90,8 +91,9 @@ Si vous avez copié ce script sur votre site, ne l'oubliez pas! Le script sera a
 
 ### Installation
 
-1.  Faites un clic-droit sur le lien vers le fichier [log_admin.php](https://github.com/cavo789/joomla_log_admin/blob/master/log_admin.php) et sélectionnez `enregistrer la cible du lien sous` afin de sauver le fichier sur votre ordinateur.
-2.  Avec un client FTP, copiez le fichier que vous venez de télécharger dans le dossier `/administrator` de votre site Joomla.
+1. Suivez le lien [log_admin.php](https://github.com/cavo789/joomla_log_admin/blob/master/log_admin.php), le code source du script s'affichera dans un onglet de votre navigateur.
+2. Faites un clic droit puis sélectionnez `Enregistrez sous` afin de sauver le fichier sur votre ordinateur. *Si votre site en local, sauvez directement dans le dossier `/administrator` de votre site Joomla.*
+3. Si votre site est distant, lancez votre client FTP, connectez-vous sur votre site et téléversez le ficier que vous venez de sauver dans le dossier `/administrator` de votre site distant.
 
 ### Utilisation
 
