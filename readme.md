@@ -2,6 +2,8 @@
 
 ![banner](./banner.svg)
 
+> ℹ️ **IMPORTANT NOTICE**  This script didn't work for Joomla 4; need refactoring.
+
 > You've forgot your Joomla admin credentials but you 've access to your FTP? The log_admin.php script will allow you to connect in your administrator interface without the need to fill in credentials.
 
 [English version](#english-version) - [Version francophone](#version-francophone)
@@ -72,6 +74,8 @@ Yann Gomiero (aka daneel) and various contributors
 ---
 
 ## Version francophone
+
+> ℹ️ **INFORMATION IMPORTANTE**  Ce script ne fonctionne pas avec Joomla 4; il faudrait en effet reprogrammer la partie utilisation du framework de Joomla.
 
 > Vous n'êtes plus en possession de votre login et/ou mot de passe administrateur Joomla (ou vous n'en avez pas) mais, par contre, vous avez encore accès à votre interface FTP.
 
